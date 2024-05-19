@@ -4,7 +4,7 @@
 
 Index.tsx
 
-```
+```jsx
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
@@ -37,7 +37,7 @@ reportWebVitals();
 
 App.tsx
 
-```
+```jsx
 import './App.css';
 import { Feature, FeatureRequirement, useFeatureFlag } from 'react-feature-flag';
 
